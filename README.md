@@ -1,4 +1,4 @@
-# 12605373_reader-speech-generation
+# 12605373_text-to-speech-generation
 
 
 1. References to at least two scientific papers that are related to your topic 
